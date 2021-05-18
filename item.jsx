@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import counters from "./counters";
 
 class Item extends Component {
   state = {
